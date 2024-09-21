@@ -19,6 +19,7 @@ repositories {
 }
 
 dependencies {
+	implementation("org.springdoc:springdoc-openapi-ui:1.6.6")
 	implementation("org.springframework.boot:spring-boot-starter-data-mongodb")
 	implementation("org.mongodb:mongodb-driver-kotlin-coroutine:5.1.2")
 	implementation("org.springframework.boot:spring-boot-starter-thymeleaf")

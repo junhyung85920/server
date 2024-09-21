@@ -1,0 +1,43 @@
+spring:
+  application:
+    name: spring-mongodb
+
+  data:
+    mongodb:
+      uri: ${mongo_uri}
+      database: ${mongo_db}
+
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG
+
+
+google:
+  client:
+    id: ${google_client_id}
+    secret: ${google_client_secret}
+
+jwt:
+  secret: ${jwt_secret}
+
+openai:
+  model: ${openai_model}
+  api:
+    key: ${openai_key}
+    url: ${openai_url}
+
+
+cloud:
+  project:
+    id: ${cloud_id}
+  bucket:
+    name: ${cloud_name}
