@@ -18,15 +18,7 @@ Team Simple
 
 ## 시연 영상
 
-팝업 신청 기능 - https://youtube.com/shorts/QSY7ZMmCYRk?feature=share
-
-북마크 기능 - https://youtube.com/shorts/Jc1FZRDCGgk?feature=share
-
-알림 기능 - https://youtube.com/shorts/GXTgxzZbBNc?feature=share
-
-필터 기능 - https://youtube.com/shorts/VGGY7jrfBJw?feature=share
-
-사업자 인증 기능 - https://youtube.com/shorts/3EHPbkAnLis?feature=share
+https://youtube.com/shorts/acKXljYkh4I?si=fJ8UQGGghvaLo6FN
 
 ## 서비스 소개
 
